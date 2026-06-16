@@ -1,3 +1,6 @@
 [submodule "AM32"]
 	path = AM32
 	url = git@github.com:don-boucher/AM32.git
+[submodule "ardupilot"]
+	path = ardupilot
+	url = git@github.com:don-boucher/ardupilot.git
