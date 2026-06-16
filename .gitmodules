@@ -4,3 +4,6 @@
 [submodule "ardupilot"]
 	path = ardupilot
 	url = git@github.com:don-boucher/ardupilot.git
+[submodule "betaflight"]
+	path = betaflight
+	url = git@github.com:don-boucher/betaflight.git
